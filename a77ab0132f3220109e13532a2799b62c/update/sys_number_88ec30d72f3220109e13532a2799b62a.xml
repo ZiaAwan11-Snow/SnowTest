@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_514954_work_assi_work_assignment">x_514954_work_assi_work_assignment</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>WOR</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-15 02:59:39</sys_created_on>
+        <sys_id>88ec30d72f3220109e13532a2799b62a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>WOR</sys_name>
+        <sys_package display_value="Work Assignments" source="x_514954_work_assi">a77ab0132f3220109e13532a2799b62c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Work Assignments">a77ab0132f3220109e13532a2799b62c</sys_scope>
+        <sys_update_name>sys_number_88ec30d72f3220109e13532a2799b62a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-15 02:59:39</sys_updated_on>
+    </sys_number>
+</record_update>
