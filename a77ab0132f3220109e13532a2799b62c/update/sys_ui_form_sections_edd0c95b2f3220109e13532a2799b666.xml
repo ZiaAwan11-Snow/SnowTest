@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="edd0c95b2f3220109e13532a2799b666" sys_domain="global" table="x_514954_work_assi_work_assignment" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-15 03:16:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fdd0c95b2f3220109e13532a2799b669</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_514954_work_assi_work_assignment" name="x_514954_work_assi_work_assignment" sys_domain="global" view="Default view">edd0c95b2f3220109e13532a2799b666</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_514954_work_assi_work_assignment" sys_domain="global" view="Default view">1f0f381b2f3220109e13532a2799b62f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-15 03:16:58</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-15 03:16:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f9d0c95b2f3220109e13532a2799b66a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_514954_work_assi_work_assignment" name="x_514954_work_assi_work_assignment" sys_domain="global" view="Default view">edd0c95b2f3220109e13532a2799b666</sys_ui_form>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_514954_work_assi_work_assignment" sys_domain="global" view="Default view">add0c95b2f3220109e13532a2799b665</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-15 03:16:58</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_514954_work_assi_work_assignment</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-15 03:16:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>edd0c95b2f3220109e13532a2799b666</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_514954_work_assi_work_assignment</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Work Assignments" source="x_514954_work_assi">a77ab0132f3220109e13532a2799b62c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Work Assignments">a77ab0132f3220109e13532a2799b62c</sys_scope>
+            <sys_update_name>sys_ui_form_sections_edd0c95b2f3220109e13532a2799b666</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-15 03:16:57</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
